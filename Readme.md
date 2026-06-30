@@ -29,7 +29,7 @@ Automated Grafana Monitoring (AGM) review workspace. This README is maintained a
 ## Change Log
 | Date | Change ID | File | Change | PR |
 |------|-----------|------|--------|----|
-| 2026-06-30 | CHG_20260630063837 | code2.ipynb | Beautify: removed 10 exact-duplicate top-level import lines (pandas x2, numpy, time, IPython.display, matplotlib.pyplot, mars SNSigmaCI/NSigmaCI, os, requests, sys). No logic changed; orchestrator + protected logic untouched. Backup created. | pending |
+| 2026-06-30 | CHG_20260630063837 | code2.ipynb | Beautify: removed 10 exact-duplicate top-level import lines (pandas x2, numpy, time, IPython.display, matplotlib.pyplot, mars SNSigmaCI/NSigmaCI, os, requests, sys). No logic changed; orchestrator + protected logic untouched. Backup created. | merged |
 
 ## Sample Report
 Latest scan/beautify summary (code2.ipynb):
