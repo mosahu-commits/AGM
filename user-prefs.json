@@ -1,0 +1,7 @@
+{
+  "auto_approve_unused_imports": true,
+  "auto_approve_dead_code": true,
+  "show_diff_preview": true,
+  "auto_run_tests_after_fix": false,
+  "beautify_confirmed_before": true
+}
